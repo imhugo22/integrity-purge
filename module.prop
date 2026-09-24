@@ -1,0 +1,6 @@
+id=integrity-purge
+name=GMS & Play Store Cache Cleaner
+version=v1.0
+versionCode=100
+author=imhugo22
+description=Adds an action button to clear data/cache for Google Play Services, Play Store, and Wallet to reset Play Integrity attestation.
