@@ -37,7 +37,7 @@ Useful after updating fingerprints, modifying `pif.json`, or configuring hardwar
 
 ---
 
-## ⁉️ Problems?
+## ⁉️ Need help?
 
 - Write me on Telegram: @imhugo22
 
