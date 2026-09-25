@@ -1,13 +1,13 @@
 ui_print "****************************************"
-ui_print "   GMS & Wallet Cache Cleaner Module    "
-ui_print "              by imhugo22               "
+ui_print "            Integrity Purge             "
+ui_print "               by imhugo22              "
 ui_print "****************************************"
 ui_print ""
-ui_print "- Installing Action script..."
+ui_print "- Configuring action permissions..."
 
-# Asegura permisos de ejecución para action.sh (0755 = rwxr-xr-x)
+# Asignar permisos completos de ejecucion a action.sh
 set_perm "$MODPATH/action.sh" 0 0 0755
+chmod 755 "$MODPATH/action.sh"
 
-ui_print "- Action button configured."
-ui_print "- Done! Reboot to enable the action button."
+ui_print "- Done! Reboot to apply."
 ui_print ""
