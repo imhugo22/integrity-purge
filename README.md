@@ -41,6 +41,8 @@ Useful after updating fingerprints, modifying `pif.json`, or configuring hardwar
 
 - Write me on Telegram: @imhugo22
 
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
