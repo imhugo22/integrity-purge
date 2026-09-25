@@ -42,6 +42,11 @@ Useful after updating fingerprints, modifying `pif.json`, or configuring hardwar
 - Write me on Telegram: @imhugo22
 
 ---
+## 📱 Tested on:
+- Samsung A52s 5G - Evolution X - Android 16 / Magisk 30.7
+- If anyone has tried it on another model and it works, please let me know via Telegram.
+---
+
 
 ## 📄 License
 
